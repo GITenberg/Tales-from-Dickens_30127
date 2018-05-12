@@ -1,0 +1,40 @@
+_repo: Tales-from-Dickens_30127
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30127-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: Rives, Hallie Erminie
+    alias: Wheeler, Post, Mrs.
+    birthdate: 1876
+    gutenberg_agent_id: '34390'
+    url: http://www.gutenberg.org/2009/agents/34390
+description: ''
+gutenberg_issued: '2009-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30127'
+  lccn: 05040408
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Adaptations'
+tableOfContents: The Old Curiosity Shop -- Oliver Twist -- Barnaby Rudge -- David
+  Copperfield -- Great expectations -- Nicholas Nickleby -- Dombey and Son -- The
+  Pickwick papers -- Little Dorrit -- Martin Chuzzlewit -- Our mutual friend -- A
+  tale of two cities -- Bleak House -- Hard times -- The mystery of Edwin Drood.
+title: Tales from Dickens
+url: http://www.gutenberg.org/ebooks/30127
